@@ -1,0 +1,18 @@
+css --cascauding stylesheet 
+it is used to style the webpage
+type of css 
+3
+which one?
+1.inline css 
+2.internal css
+3.external css
+
+selectors
+tag name 
+class name
+id 
+class --multiple tag
+class -- .
+id -- it is unique define 
+id-- #
+
